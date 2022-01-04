@@ -16,5 +16,4 @@ javascript:(function(){
                   a[i].click();
             }
     }
-    setTimeout(location.reload(), 1000);
 })();
